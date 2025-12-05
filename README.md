@@ -1,11 +1,17 @@
 | Supported Targets | ESP32-C5 | ESP32-C6 | ESP32-H2 |
 | ----------------- | -------- | -------- | -------- |
 
-# IEEE802.15.4 Command Line Example
+# IoT Application: IEEE802.15.4 Command Line Example
 
-This example demonstrates an IEEE802.15.4 Command Line. The IEEE802.15.4 CLI exposes configuration and management APIs via a command line interface.
+**Course:**  Desarrollo de Sistemas IoT (IoT systems development)  
 
-This example required a base code created by the official Espressif website. To obtain it we execute the following steps:
+**University:**  National University of Colombia  
+
+---
+
+This repo demonstrates an IEEE802.15.4 Command Line. The IEEE802.15.4 CLI exposes configuration and management APIs via a command line interface.
+
+For the example is required a base code created by the official Espressif website. To obtain it we execute the following steps:
 
 1. Press `Ctrl + Shift + P` to open command palette.
 2. Search and execute `ESP-IDF: Show Examples` selecting ESP-IDF version.
